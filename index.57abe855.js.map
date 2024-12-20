@@ -1,0 +1,1 @@
+{"mappings":"ACEA,IAAI,IAAI","sources":["<anon>","src/scripts/main.js"],"sourcesContent":["'use strict';\nAOS.init();\n\n//# sourceMappingURL=index.57abe855.js.map\n","'use strict';\n\nAOS.init();\n"],"names":["AOS","init"],"version":3,"file":"index.57abe855.js.map"}
